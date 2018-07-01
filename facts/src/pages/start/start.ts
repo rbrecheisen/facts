@@ -2,13 +2,6 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { DataProvider } from '../../providers/data/data';
 
-/**
- * Generated class for the SelectItemPage page.
- *
- * See https://ionicframework.com/docs/components/#navigation for more info on
- * Ionic pages and navigation.
- */
-
 @IonicPage()
 @Component({
   selector: 'page-select-item',
@@ -33,6 +26,9 @@ export class StartPage {
         this.idx = this.selectIndex(this.items);
         this.title = this.items[this.idx].title;
         this.progress = this.counter + ' / ' + this.nr_items;
+      }
+      else {
+        this.title = "Could not load the data";
       }
     });
   }

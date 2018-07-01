@@ -8,19 +8,21 @@ import { HttpClientModule} from '@angular/common/http';
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { StartPage } from '../pages/start/start';
+import { StartPageModule } from '../pages/start/start.module';
 import { DataProvider } from '../providers/data/data';
 
 @NgModule({
   declarations: [
     MyApp,
-    HomePage,
-    StartPage
+    HomePage
+    //StartPage
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
     IonicModule.forRoot(MyApp),
-    IonicStorageModule.forRoot()
+    IonicStorageModule.forRoot(),
+    StartPageModule
   ],
   bootstrap: [IonicApp],
   entryComponents: [
