@@ -1,0 +1,14 @@
+{
+  "name": "facts",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/rbeesoftdata/",
+      "proxyUrl": "https://s3-eu-west-1.amazonaws.com/rbeesoftdata/"
+    }
+  ]
+}
