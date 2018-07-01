@@ -18,6 +18,9 @@ import { DataProvider } from '../../providers/data/data';
 export class StartPage {
 
   public items = [];
+  nr_items = 0;
+  progress = '0 / 0';
+  counter = 0;
   title = ''
   idx = 0;
   question = true;
@@ -26,8 +29,10 @@ export class StartPage {
     this.dataService.getData().then((questions) => {
       if(questions) {
         this.items = questions;
+        this.nr_items = this.items.length;
         this.idx = this.selectIndex(this.items);
         this.title = this.items[this.idx].title;
+        this.progress = this.counter + ' / ' + this.nr_items;
       }
     });
   }
@@ -50,11 +55,13 @@ export class StartPage {
       this.question = false;
     }
     else {
+      this.counter++;
       this.idx = this.selectIndex(this.items);
       if(this.idx < 0){
         this.navCtrl.pop();
         return;
       }
+      this.progress = this.counter + ' / ' + this.nr_items;
       this.title = this.items[this.idx].title;
       this.question = true;
     }

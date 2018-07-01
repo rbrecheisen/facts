@@ -33,14 +33,19 @@ var StartPage = /** @class */ (function () {
         this.navParams = navParams;
         this.dataService = dataService;
         this.items = [];
+        this.nr_items = 0;
+        this.progress = '0 / 0';
+        this.counter = 0;
         this.title = '';
         this.idx = 0;
         this.question = true;
         this.dataService.getData().then(function (questions) {
             if (questions) {
                 _this.items = questions;
+                _this.nr_items = _this.items.length;
                 _this.idx = _this.selectIndex(_this.items);
                 _this.title = _this.items[_this.idx].title;
+                _this.progress = _this.counter + ' / ' + _this.nr_items;
             }
         });
     }
@@ -59,18 +64,20 @@ var StartPage = /** @class */ (function () {
             this.question = false;
         }
         else {
+            this.counter++;
             this.idx = this.selectIndex(this.items);
             if (this.idx < 0) {
                 this.navCtrl.pop();
                 return;
             }
+            this.progress = this.counter + ' / ' + this.nr_items;
             this.title = this.items[this.idx].title;
             this.question = true;
         }
     };
     StartPage = __decorate([
         Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
-            selector: 'page-select-item',template:/*ion-inline-start:"/Users/ralph/Development/facts/facts/src/pages/start/start.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <ion-title>\n      Vragen\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n	<ion-list>\n		<button ion-item (click)="next()">\n			{{title}}\n		</button>\n  	</ion-list>\n</ion-content>\n'/*ion-inline-end:"/Users/ralph/Development/facts/facts/src/pages/start/start.html"*/,
+            selector: 'page-select-item',template:/*ion-inline-start:"/Users/ralph/Development/facts/facts/src/pages/start/start.html"*/'<ion-header>\n  <ion-navbar color="primary">\n    <ion-title>\n      Vragen\n    </ion-title>\n  </ion-navbar>\n</ion-header>\n\n<ion-content>\n  <ion-label>Aantal vragen beantwoord: {{ progress }}</ion-label>\n	<ion-list>\n		<button ion-item (click)="next()">\n			{{title}}\n		</button>\n  	</ion-list>\n</ion-content>\n'/*ion-inline-end:"/Users/ralph/Development/facts/facts/src/pages/start/start.html"*/,
         }),
         __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["e" /* NavController */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* NavParams */], __WEBPACK_IMPORTED_MODULE_2__providers_data_data__["a" /* DataProvider */]])
     ], StartPage);
@@ -338,7 +345,7 @@ var DataProvider = /** @class */ (function () {
     };
     DataProvider.prototype.getRemoteData = function () {
         var _this = this;
-        this.http.get("http://localhost:8100/rbeesoftdata/questions.json").pipe(Object(__WEBPACK_IMPORTED_MODULE_3_rxjs_operators__["map"])(function (res) { return res; })).subscribe(function (questions) {
+        this.http.get("http://localhost:8100/data/questions.json").pipe(Object(__WEBPACK_IMPORTED_MODULE_3_rxjs_operators__["map"])(function (res) { return res; })).subscribe(function (questions) {
             _this.save(questions);
         });
     };

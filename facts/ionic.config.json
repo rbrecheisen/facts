@@ -9,6 +9,10 @@
     {
       "path": "/rbeesoftdata/",
       "proxyUrl": "https://s3-eu-west-1.amazonaws.com/rbeesoftdata/"
+    },
+    {
+      "path": "/data/",
+      "proxyUrl": "https://github.com/rbrecheisen/facts/blob/master/facts/src/assets/data/"
     }
   ]
 }
