@@ -19,10 +19,6 @@ export class DataProvider {
     this.storage.set('questions', data);
   }
 
-  clearData() {
-    this.save('questions', undefined);
-  }
-
   getRemoteData() {
     this.http.get("http://localhost:8100/rbeesoftdata/questions.json").pipe(map(res => res)).subscribe(questions => {
       this.save(questions);
