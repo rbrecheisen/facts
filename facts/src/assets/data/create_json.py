@@ -6,6 +6,8 @@ def run():
     with open('questions.txt', 'r') as f:
         for line in f.readlines():
             line = line.strip()
+            if line.startswith('#') or line == '':
+                continue
             elements = [x.strip() for x in line.split('=')]
             questions.append({
                 'title': elements[0],
@@ -16,4 +18,4 @@ def run():
 
 
 if __name__ == '__main__':
-  run()
+    run()

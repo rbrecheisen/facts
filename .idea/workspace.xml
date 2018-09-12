@@ -3,16 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="0943e091-acf0-4cfe-bdf1-cb7347b6b4a8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/.sourcemaps/0.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/facts/.sourcemaps/0.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/.sourcemaps/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/facts/.sourcemaps/main.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/facts/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/ionic.config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/facts/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/facts/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/facts/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/src/pages/start/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/facts/src/pages/start/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/src/pages/start/start.ts" beforeDir="false" afterPath="$PROJECT_DIR$/facts/src/pages/start/start.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/src/providers/data/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/facts/src/providers/data/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/facts.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/facts/platforms/ios/facts.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/facts.xcodeproj/project.xcworkspace/xcuserdata/ralph.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/facts/platforms/ios/facts.xcodeproj/project.xcworkspace/xcuserdata/ralph.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/ionicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/noto-sans-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/noto-sans-bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/noto-sans-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/noto-sans-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/noto-sans.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/roboto-bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/roboto-light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/roboto-medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/roboto-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/platforms/ios/www/assets/fonts/roboto.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/src/assets/data/create_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/facts/src/assets/data/create_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/src/assets/data/questions.json" beforeDir="false" afterPath="$PROJECT_DIR$/facts/src/assets/data/questions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facts/src/assets/data/questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/facts/src/assets/data/questions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/assets/fonts/ionicons.eot" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/assets/fonts/ionicons.scss" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/assets/fonts/ionicons.svg" beforeDir="false" />
@@ -27,14 +37,15 @@
       <change beforePath="$PROJECT_DIR$/facts/www/assets/fonts/roboto-medium.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/assets/fonts/roboto-regular.ttf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/assets/fonts/roboto.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/www/build/0.js" beforeDir="false" afterPath="$PROJECT_DIR$/facts/www/build/0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facts/www/build/0.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/build/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/facts/www/build/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/build/main.css.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/build/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/facts/www/build/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/build/main.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/build/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/facts/www/build/vendor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/facts/www/build/vendor.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/install-env.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/install-env.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/run-cordova.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/run-cordova.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/run-ionic.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/run-ionic.sh" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,11 +56,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="start.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/facts/src/pages/start/start.html">
+      <file leaf-file-name="questions.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facts/src/assets/data/questions.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="645">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run-cordova.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/run-cordova.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="install-env.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/install-env.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="deploy-app.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/deploy-app.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_json.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facts/src/assets/data/create_json.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -90,16 +133,20 @@
         <option value="$PROJECT_DIR$/facts/src/pages/home/home.html" />
         <option value="$PROJECT_DIR$/facts/src/assets/data/data.json" />
         <option value="$PROJECT_DIR$/facts/src/assets/data/questions.json" />
-        <option value="$PROJECT_DIR$/facts/src/assets/data/create_json.py" />
         <option value="$PROJECT_DIR$/facts/src/pages/home/home.ts" />
         <option value="$PROJECT_DIR$/facts/package-lock.json" />
-        <option value="$PROJECT_DIR$/facts/src/assets/data/questions.txt" />
         <option value="$PROJECT_DIR$/facts/ionic.config.json" />
         <option value="$PROJECT_DIR$/facts/src/pages/start/start.ts" />
         <option value="$PROJECT_DIR$/facts/src/pages/start/start.module.ts" />
         <option value="$PROJECT_DIR$/facts/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/facts/src/providers/data/data.ts" />
         <option value="$PROJECT_DIR$/facts/src/pages/start/start.html" />
+        <option value="$PROJECT_DIR$/facts/src/assets/data/create_json.py" />
+        <option value="$PROJECT_DIR$/facts/src/assets/data/questions.txt" />
+        <option value="$PROJECT_DIR$/scripts/run-cordova.sh" />
+        <option value="$PROJECT_DIR$/scripts/run-ionic.sh" />
+        <option value="$PROJECT_DIR$/scripts/install-env.sh" />
+        <option value="$PROJECT_DIR$/scripts/deploy-app.sh" />
       </list>
     </option>
   </component>
@@ -132,28 +179,19 @@
               <item name="facts" type="b2602c69:ProjectViewProjectNode" />
               <item name="facts" type="462c0819:PsiDirectoryNode" />
               <item name="facts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="facts" type="b2602c69:ProjectViewProjectNode" />
               <item name="facts" type="462c0819:PsiDirectoryNode" />
               <item name="facts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="platforms" type="462c0819:PsiDirectoryNode" />
+              <item name="ios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="facts" type="b2602c69:ProjectViewProjectNode" />
               <item name="facts" type="462c0819:PsiDirectoryNode" />
-              <item name="facts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="start" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="facts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="facts" type="462c0819:PsiDirectoryNode" />
-              <item name="facts" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,31 +260,61 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32948717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27564102" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27564102" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/questions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/run-cordova.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/install-env.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/create_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/deploy-app.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/facts/src/assets/data/questions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -317,13 +385,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/questions.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/facts/src/pages/home/home.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -335,13 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="2689" column="23" selection-start-line="2689" selection-start-column="23" selection-end-line="2689" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/create_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -388,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/questions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/facts/src/pages/start/start.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -411,8 +458,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/facts/src/pages/start/start.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/questions.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/create_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facts/src/assets/data/questions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/run-ionic.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/run-cordova.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/install-env.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/deploy-app.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
         </state>
       </provider>
     </entry>

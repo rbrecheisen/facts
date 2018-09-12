@@ -10,16 +10,19 @@ import { DataProvider } from '../../providers/data/data';
 
 export class StartPage {
 
-  public items = [];
+  /* public items = [];
   nr_items = 0;
   progress = '0 / 0';
   counter = 0;
   title = ''
   idx = 0;
-  question = true;
+  question = true; */
 
   constructor(public navCtrl: NavController, public navParams: NavParams, public dataService: DataProvider) {
-    this.dataService.getData().then((questions) => {
+
+    this.title = 'Hi there!!!';
+    
+    /* this.dataService.getData().then((questions) => {
       if(questions) {
         this.items = questions;
         this.nr_items = this.items.length;
@@ -30,7 +33,7 @@ export class StartPage {
       else {
         this.title = "Could not load the data";
       }
-    });
+    }); */
   }
 
   ionViewDidLoad() {
@@ -41,10 +44,13 @@ export class StartPage {
   }
 
   removeItem(items, idx) {
-    items.splice(idx, 1);
+    /* items.splice(idx, 1); */
   }
 
   next() {
+
+
+    /*
     if(this.question) {
       this.title = this.items[this.idx].description;
       this.removeItem(this.items, this.idx);
@@ -60,6 +66,6 @@ export class StartPage {
       this.progress = this.counter + ' / ' + this.nr_items;
       this.title = this.items[this.idx].title;
       this.question = true;
-    }
+    }*/
   }
 }

@@ -15,7 +15,7 @@ import { DataProvider } from '../providers/data/data';
   declarations: [
     MyApp,
     HomePage
-    //StartPage
+    StartPage
   ],
   imports: [
     BrowserModule,

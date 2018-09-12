@@ -64,6 +64,14 @@
         "description": "Zuur of zoute gerechten"
     },
     {
+        "title": "Welke 5 basisingredienten heeft een wijn nodig?",
+        "description": "Kooldioxide, zonlicht, water, warmte en voedingsstoffen uit de bodem"
+    },
+    {
+        "title": "Welke 3 typen klimaat zijn er wat wijnbouw betreft?",
+        "description": "Koel, gematigd en heet"
+    },
+    {
         "title": "Naast het klimaat welke andere 2 factoren spelen een rol bij de temperatuur?",
         "description": "Hoogteligging en nabijheid van oceanen"
     },
@@ -74,5 +82,49 @@
     {
         "title": "Wat voor wijnkarakteristieken kun je verwachten in een koel klimaat?",
         "description": "Minder alcohol, lichtere body, minder tannine, meer zuren"
+    },
+    {
+        "title": "Hoe smaakt een druif als deze niet geheel rijp is?",
+        "description": "Zuur"
+    },
+    {
+        "title": "Hoe smaakt een druif die te rijp is?",
+        "description": "Onaangenaam, doorkookt, jamachtig, flauw van smaak, verloren frisheid en zuren"
+    },
+    {
+        "title": "Hoe noemt men een wijn uit 1 specifiek oogstjaar?",
+        "description": "Een vintage"
+    },
+    {
+        "title": "In welke 2 Franse wijnstreken is het weer erg wisselend waardoor deze van invloed kan zijn op de wijn?",
+        "description": "Bordeaux en Champagne"
+    },
+    {
+        "title": "Hoe kan men de kwaliteit van een wijn jaar in, jaar uit redelijk constant houden?",
+        "description": "Door druivenrassen te mengen of druiven van meerdere percelen te mengen"
+    },
+    {
+        "title": "Wat doet zonlicht in een druif?",
+        "description": "Deze zet de kooldioxide om in suiker"
+    },
+    {
+        "title": "Hoe kan men de hoeveelheid zonlicht vergroten in koele wijngebieden?",
+        "description": "Door de wijnstokken op hellingen richting de zon te plaatsen of boven rivieren die het zonlicht weerkaatsen"
+    },
+    {
+        "title": "Wat gebeurt er als druiven teveel water krijgen?",
+        "description": "Dan zwellen ze op, verliezen hun smaak, body en alcholol en zijn bevattelijk voor rot"
+    },
+    {
+        "title": "Hoe kan een wijngaard een teveel aan regenwater tegengaan?",
+        "description": "Door de wijngaard tegen een helling te leggen met stenen of kiezels die het water makkelijk afvoeren"
+    },
+    {
+        "title": "Tussen welke breedtegraden liggen de meeste wijngaarden in de wereld?",
+        "description": "Tussen de 30 en 50ste breedtegraad"
+    },
+    {
+        "title": "Welk mechanisme heeft een wijnplant om met hitte om te gaan?",
+        "description": "Deze kan zichzelf koelen en zelfs alle activiteit van de bladeren uitschakelen"
     }
 ]

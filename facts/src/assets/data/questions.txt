@@ -1,3 +1,7 @@
+#####################################################################################################################################
+# ETEN
+#####################################################################################################################################
+
 Wat is het effect van zoet eten op de waarneming van bitter, zuur en alcholol? = Deze wordt versterkt
 Wat is het effect van zoet eten op de waarneming van body, zoetheid en fruitigheid in wijn? = Deze wordt verminderd
 Wat is het effect van umami in het eten op de waarneming van bitter, zuren en alcohol? = Deze wordt versterkt
@@ -14,6 +18,26 @@ Wat voor wijn kun je het beste combineren met een umami gerecht? = Een wijn die 
 Wat voor wijn kun je het beste combineren met een bitter gerecht? = Witte wijn of rode wijn met weinig tannines
 Wat voor wijn kun je het beste combineren met pepers in een gerecht? = Witte wijn of rode wijn met weinig tannines en weinig alcohol
 Welke gerechten zijn van relatief laag risiko bij het kiezen van de wijn? = Zuur of zoute gerechten
+
+#####################################################################################################################################
+# FACTOREN DIE STIJL, KWALITEIT EN PRIJS VAN WIJN BEPALEN
+#####################################################################################################################################
+
+Welke 5 basisingredienten heeft een wijn nodig? = Kooldioxide, zonlicht, water, warmte en voedingsstoffen uit de bodem
+Welke 3 typen klimaat zijn er wat wijnbouw betreft? = Koel, gematigd en heet
 Naast het klimaat welke andere 2 factoren spelen een rol bij de temperatuur? = Hoogteligging en nabijheid van oceanen
 Wat voor wijnkarakteristieken kun je verwachten in een heet klimaat? = Volle body, meer alcohol, meer tannine, minder zuren
 Wat voor wijnkarakteristieken kun je verwachten in een koel klimaat? = Minder alcohol, lichtere body, minder tannine, meer zuren
+Hoe smaakt een druif als deze niet geheel rijp is? = Zuur
+Hoe smaakt een druif die te rijp is? = Onaangenaam, doorkookt, jamachtig, flauw van smaak, verloren frisheid en zuren
+Hoe noemt men een wijn uit 1 specifiek oogstjaar? = Een vintage
+In welke 2 Franse wijnstreken is het weer erg wisselend waardoor deze van invloed kan zijn op de wijn? = Bordeaux en Champagne
+Hoe kan men de kwaliteit van een wijn jaar in, jaar uit redelijk constant houden? = Door druivenrassen te mengen of druiven van meerdere percelen te mengen
+Wat doet zonlicht in een druif? = Deze zet de kooldioxide om in suiker
+Hoe kan men de hoeveelheid zonlicht vergroten in koele wijngebieden? = Door de wijnstokken op hellingen richting de zon te plaatsen of boven rivieren die het zonlicht weerkaatsen
+Wat gebeurt er als druiven teveel water krijgen? = Dan zwellen ze op, verliezen hun smaak, body en alcholol en zijn bevattelijk voor rot
+Hoe kan een wijngaard een teveel aan regenwater tegengaan? = Door de wijngaard tegen een helling te leggen met stenen of kiezels die het water makkelijk afvoeren
+Tussen welke breedtegraden liggen de meeste wijngaarden in de wereld? = Tussen de 30 en 50ste breedtegraad
+Welk mechanisme heeft een wijnplant om met hitte om te gaan? = Deze kan zichzelf koelen en zelfs alle activiteit van de bladeren uitschakelen
+Wat zijn de twee belangrijkste factoren die de kwaliteit en stijl van een wijn bepalen? = (1) De mate van verzorging van de wijngaard en (2) beheersing van de opbrengst
+Welke methoden heeft men ter beschikking om ervoor te zorgen dat alle druiven tegelijkertijd rijp zijn? = Zorgvuldig snoeien, aantal trossen per stok beperken en de bladeren meer of minder naar de zon arrangeren
